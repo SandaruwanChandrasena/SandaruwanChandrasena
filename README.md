@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Salon Management System**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **MERN Stack**,**Java**
 
 - 🤝 I’m looking for help with **MERN Stack**
 

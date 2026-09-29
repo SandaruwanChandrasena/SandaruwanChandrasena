@@ -68,14 +68,6 @@ const sandaruwan = {
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sandaruwanchandrasena&bg_color=0d1117&color=A78BFA&line=7C3AED&point=ffffff&area=true&hide_border=true" />
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">

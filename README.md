@@ -29,8 +29,10 @@ I am a **Software Engineering graduate** from **Sri Lanka**.
 I learn best by **building real projects** from start to finish.
 I also share how I build them on my **YouTube channel**.
 
+- ✅ Built **ResourceHub** — a resource booking system with Next.js & PostgreSQL
 - 🔭 Building **JobTrail** — a job application tracker
 - 📦 Building an **Inventory Management System** with MERN
+- 🧠 Led the **ScreenMind** research team — an AI mental health mobile app
 - 💛 Favorite language: **JavaScript**
 - 🎯 Looking for: **Software Engineer roles & Internships**
 - 📫 Reach me: **schandrasena98@gmail.com**
@@ -53,12 +55,12 @@ I also share how I build them on my **YouTube channel**.
 
 <p><b>Frontend</b></p>
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,vite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,vite&theme=dark" />
 </p>
 
 <p><b>Backend & Database</b></p>
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql,sqlite,supabase,fastapi&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,firebase,mysql,sqlite,supabase,fastapi&theme=dark" />
 </p>
 
 <p><b>Deploy, Tools & Languages</b></p>
@@ -66,7 +68,7 @@ I also share how I build them on my **YouTube channel**.
   <img src="https://skillicons.dev/icons?i=vercel,netlify,git,github,postman,figma,vitest,java,python&theme=dark" />
 </p>
 
-<sub>📱 Also worked with <b>React Native</b> for mobile apps.</sub>
+<sub>📱 Also built mobile apps with <b>React Native</b> (ScreenMind).</sub>
 
 <br/><br/>
 
@@ -75,12 +77,11 @@ I also share how I build them on my **YouTube channel**.
 
 | | Project | About | Built with | Link |
 |:-:|---|---|---|:-:|
+| 📅 | **ResourceHub** | Book shared rooms, equipment and vehicles with no double bookings, a waitlist, a shared calendar and an admin dashboard | Next.js · TypeScript · PostgreSQL · Prisma · Tailwind | [Repo](https://github.com/SandaruwanChandrasena/resource-primeware) |
 | 🗂️ | **JobTrail** | Track job applications on a drag-and-drop Kanban board | React · Vite · Firebase · dnd-kit · Vitest · PWA | [Live](https://jobtrail-tracker.vercel.app) |
-| 📦 | **Inventory Management System** | Rental equipment system with admin, manager and employee roles, stock control and image uploads | MongoDB · Express · React · Node.js · JWT · Supabase | — |
-| ⚡ | **Next.js Project** | _Add short description here_ | Next.js · React | — |
-| 🔍 | **GitHub Search Card** | Search any GitHub user and see their profile, top repos and languages | HTML · CSS · JavaScript · GitHub API | [Repo](https://github.com/SandaruwanChandrasena/github-search-card) |
-| 🧠 | **ScreenMind** | AI tool that checks the sentiment of social media posts | Python · FastAPI | — |
-| 🎓 | **Student Monitoring System** | Solo project built through the full SDLC | Full-Stack | — |
+| 📦 | **Inventory Management System** | Rental equipment system with admin, manager and employee roles, stock control and image uploads | MongoDB · Express · React · Node.js · JWT · Supabase | [Live](https://sruwan-inventory.netlify.app/) |
+| 🔍 | **GitHub Search Card** | Search any GitHub user and see their profile, top repos and languages | HTML · CSS · JavaScript · GitHub API | [Live](https://sandaruwanchandrasena.github.io/github-search-card/) · [Repo](https://github.com/SandaruwanChandrasena/github-search-card) |
+| 🧠 | **ScreenMind** <br/><sub>Research project · Team lead</sub> | AI mobile app that finds mental health risks from phone behavior. I built the social media analysis part: it reads notifications, checks sentiment with a RoBERTa NLP model, spots emoji mismatch and gives a live risk score with alerts. | React Native · Python · RoBERTa (NLP) · Firebase | [Repo](https://github.com/SandaruwanChandrasena/ScreenMind-25-26J-254) |
 
 <br/>
 

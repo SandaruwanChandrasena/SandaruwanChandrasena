@@ -1,83 +1,108 @@
+<!-- ============ HEADER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sandaruwan%20Chandrasena&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Mobile%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:134e5e,100:2dd4bf&height=220&section=header&text=Sandaruwan%20Chandrasena&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20%E2%80%A2%20MERN%20%E2%80%A2%20Next.js&descAlignY=62&descSize=17" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;React+Native+%7C+Mobile+Development;AI-Integrated+Application+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=2DD4BF&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Sandaruwan+%F0%9F%91%8B;MERN+Stack+Developer;Next.js+%26+React+Developer;I+explain+my+projects+on+YouTube+%F0%9F%8E%A5;Open+to+Jobs+%26+Internships" alt="Typing SVG" />
 </a>
+
+<br/><br/>
+
+<a href="https://www.youtube.com/@SandaruwanChandrasena-98"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
+<a href="https://linkedin.com/in/sandaruwanchandrasena"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:schandrasena98@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=2DD4BF" /></a>
+<img src="https://img.shields.io/badge/Open%20to%20Work-2DD4BF?style=flat-square&logoColor=black" />
+
+</div>
 
 <br/>
 
-</div>
+<!-- ============ ABOUT ============ -->
+<h2>🧑‍💻 About Me</h2>
 
----
+<table>
+<tr>
+<td width="55%" valign="middle">
 
-## 👨‍💻 About Me
+I am a **Software Engineering graduate** from **Sri Lanka**.
+I learn best by **building real projects** from start to finish.
+I also share how I build them on my **YouTube channel**.
 
-```javascript
-const sandaruwan = {
-  name:       "Sandaruwan Chandrasena",
-  location:   "Sri Lanka 🇱🇰",
-  email:      "schandrasena98@gmail.com",
-  linkedin:   "linkedin.com/in/sandaruwanchandrasena",
+- 🔭 Building **JobTrail** — a job application tracker
+- 📦 Building an **Inventory Management System** with MERN
+- 💛 Favorite language: **JavaScript**
+- 🎯 Looking for: **Software Engineer roles & Internships**
+- 📫 Reach me: **schandrasena98@gmail.com**
 
-  currentFocus: [
-    "Building MERN Stack Projects",
-    "Student Monitoring System (Solo SDLC Project)",
-    "ScreenMind — AI Social Media Sentiment Analyzer",
-  ],
+</td>
+<td width="45%" valign="middle" align="center">
 
-  techStack: {
-    frontend:  ["React", "Next.js", "React Native", "Tailwind CSS"],
-    backend:   ["Node.js", "Express", "FastAPI"],
-    database:  ["MongoDB", "Firebase", "MySQL", "SQLite"],
-    tools:     ["Figma", "Postman", "Git"],
-  },
-};
-```
+<a href="https://www.youtube.com/@SandaruwanChandrasena-98">
+  <img src="./youtube-card.svg" width="100%" alt="My YouTube Channel" />
+</a>
 
----
+</td>
+</tr>
+</table>
 
-## 🚀 Tech Stack
+<br/>
 
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+<!-- ============ TECH STACK ============ -->
+<h2>🛠️ Tech Stack</h2>
 
-### ⚙️ Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+<p><b>Frontend</b></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,vite&theme=dark" />
+</p>
 
-### 🛠️ Tools & Design
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p><b>Backend & Database</b></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql,sqlite,supabase,fastapi&theme=dark" />
+</p>
 
----
+<p><b>Deploy, Tools & Languages</b></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,git,github,postman,figma,vitest,java,python&theme=dark" />
+</p>
 
-## 🤝 Connect With Me
+<sub>📱 Also worked with <b>React Native</b> for mobile apps.</sub>
+
+<br/><br/>
+
+<!-- ============ PROJECTS ============ -->
+<h2>🌟 Featured Projects</h2>
+
+| | Project | About | Built with | Link |
+|:-:|---|---|---|:-:|
+| 🗂️ | **JobTrail** | Track job applications on a drag-and-drop Kanban board | React · Vite · Firebase · dnd-kit · Vitest · PWA | [Live](https://jobtrail-tracker.vercel.app) |
+| 📦 | **Inventory Management System** | Rental equipment system with admin, manager and employee roles, stock control and image uploads | MongoDB · Express · React · Node.js · JWT · Supabase | — |
+| ⚡ | **Next.js Project** | _Add short description here_ | Next.js · React | — |
+| 🔍 | **GitHub Search Card** | Search any GitHub user and see their profile, top repos and languages | HTML · CSS · JavaScript · GitHub API | [Repo](https://github.com/SandaruwanChandrasena/github-search-card) |
+| 🧠 | **ScreenMind** | AI tool that checks the sentiment of social media posts | Python · FastAPI | — |
+| 🎓 | **Student Monitoring System** | Solo project built through the full SDLC | Full-Stack | — |
+
+<br/>
+
+<!-- ============ STATS ============ -->
+<h2>📊 GitHub Activity</h2>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sandaruwanchandrasena)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:schandrasena98@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SandaruwanChandrasena)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SandaruwanChandrasena&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=2DD4BF&icon_color=38BDF8&text_color=c9d1d9&ring_color=2DD4BF" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandaruwanChandrasena&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=2DD4BF&text_color=c9d1d9" />
+
+<img src="https://streak-stats.demolab.com?user=SandaruwanChandrasena&hide_border=true&background=0d1117&ring=2DD4BF&fire=38BDF8&currStreakLabel=2DD4BF&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&stroke=30363d" />
 
 </div>
 
----
+<br/>
 
+<!-- ============ FOOTER ============ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%" />
+
+<sub>⭐ Thanks for visiting! Feel free to check out my projects and say hi.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2dd4bf,50:134e5e,100:0f2027&height=110&section=footer" width="100%" />
+
 </div>

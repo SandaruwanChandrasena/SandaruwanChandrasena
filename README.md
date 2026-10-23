@@ -13,6 +13,7 @@
 <a href="https://linkedin.com/in/sandaruwanchandrasena"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:schandrasena98@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=2DD4BF" /></a>
 <img src="https://img.shields.io/badge/Open%20to%20Work-2DD4BF?style=flat-square&logoColor=black" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=SandaruwanChandrasena.SandaruwanChandrasena&left_text=Visitors&left_color=%230d1117&right_color=%232dd4bf" alt="Visitors" />
 
 </div>
 
@@ -30,6 +31,7 @@ I learn best by **building real projects** from start to finish.
 I also share how I build them on my **YouTube channel**.
 
 - ✅ Built **ResourceHub** — a resource booking system with Next.js & PostgreSQL
+- 📰 Built **Daily Pulse** — a Flutter news app for Android
 - 🔭 Building **JobTrail** — a job application tracker
 - 📦 Building an **Inventory Management System** with MERN
 - 🧠 Led the **ScreenMind** research team — an AI mental health mobile app
@@ -63,12 +65,17 @@ I also share how I build them on my **YouTube channel**.
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,firebase,mysql,sqlite,supabase,fastapi&theme=dark" />
 </p>
 
+<p><b>Mobile</b></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio&theme=dark" />
+</p>
+
 <p><b>Deploy, Tools & Languages</b></p>
 <p>
   <img src="https://skillicons.dev/icons?i=vercel,netlify,git,github,postman,figma,vitest,java,python&theme=dark" />
 </p>
 
-<sub>📱 Also built mobile apps with <b>React Native</b> (ScreenMind).</sub>
+<sub>📱 Mobile apps: <b>Flutter</b> (Daily Pulse) and <b>React Native</b> (ScreenMind).</sub>
 
 <br/><br/>
 
@@ -78,6 +85,7 @@ I also share how I build them on my **YouTube channel**.
 | | Project | About | Built with | Link |
 |:-:|---|---|---|:-:|
 | 📅 | **ResourceHub** | Book shared rooms, equipment and vehicles with no double bookings, a waitlist, a shared calendar and an admin dashboard | Next.js · TypeScript · PostgreSQL · Prisma · Tailwind | [Repo](https://github.com/SandaruwanChandrasena/resource-primeware) |
+| 📰 | **Daily Pulse** <br/><sub>Mobile app · Android</sub> | News app with top headlines by category (including Sri Lanka), search, bookmarks, dark mode and offline reading. Has 46 unit tests. | Flutter · Dart · Provider · NewsAPI | [Repo](https://github.com/SandaruwanChandrasena/daily-pulse) · [Demo](https://youtube.com/shorts/hoN08wMltRg) |
 | 🗂️ | **JobTrail** | Track job applications on a drag-and-drop Kanban board | React · Vite · Firebase · dnd-kit · Vitest · PWA | [Live](https://jobtrail-tracker.vercel.app) |
 | 📦 | **Inventory Management System** | Rental equipment system with admin, manager and employee roles, stock control and image uploads | MongoDB · Express · React · Node.js · JWT · Supabase | [Live](https://sruwan-inventory.netlify.app/) |
 | 🔍 | **GitHub Search Card** | Search any GitHub user and see their profile, top repos and languages | HTML · CSS · JavaScript · GitHub API | [Live](https://sandaruwanchandrasena.github.io/github-search-card/) · [Repo](https://github.com/SandaruwanChandrasena/github-search-card) |
